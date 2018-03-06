@@ -15,7 +15,7 @@ Developed using Python 3.6.2. Use pip to install missing modules.
 1. Module: requests
 
 # Usage
-Install bittrex_auto_blacklist.py in the same folder as PAIRS.properties. <b>Make sure you make a backup of PAIRS.properties!</b>.
+Install bittrex_auto_blacklist.py in the same folder as PAIRS.properties. <b>Make sure you make a backup of PAIRS.properties!</b>. It's good practice in general, but seriously don't skip out on this to be safe!
 
 Example: python bittrex_auto_blacklist.py
 
